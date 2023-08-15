@@ -1,0 +1,22 @@
+List of unique winning team names in the whole data set:
+Argentina
+Belgium
+Brazil
+Colombia
+Costa Rica
+Croatia
+England
+France
+Germany
+Netherlands
+Russia
+Sweden
+Uruguay
+
+Year and team name of all the champions:
+2014|Germany
+2018|France
+
+List of teams that start with 'Co':
+Colombia
+Costa Rica
